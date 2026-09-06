@@ -54,3 +54,8 @@ Install the required packages with:
 
 ```bash
 pip install opencv-python numpy
+
+## Run
+python Task1_Static_Shape_Detection.py
+python Task2_Video_Shape_Detection.py
+python Task3_Static_Hard_Detection.py
